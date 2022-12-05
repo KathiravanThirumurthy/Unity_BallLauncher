@@ -1,0 +1,153 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.TestRunner", "UnityEngine.TestRunner.csproj", "{2dcb19c5-f185-9548-edc1-d54634ea66ff}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Mathematics", "Unity.Mathematics.csproj", "{f1adb98b-2f48-a9ce-494d-f93784453d17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.Animation.Triangle.Runtime", "Unity.2D.Animation.Triangle.Runtime.csproj", "{e310e40d-2fb2-6be1-d74d-c5e1a0920f58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Timeline", "Unity.Timeline.csproj", "{daddc435-de91-efac-aaec-7b68a15eeab6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.UI", "UnityEngine.UI.csproj", "{20dee3d6-fede-a5c6-0955-6bbc27d3a46c}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.TextMeshPro", "Unity.TextMeshPro.csproj", "{0199a156-27c9-5a9f-9c25-d462dde17eb3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.Animation.Runtime", "Unity.2D.Animation.Runtime.csproj", "{046e7d59-e551-a81b-8d67-e10de8cfbfa8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.IK.Runtime", "Unity.2D.IK.Runtime.csproj", "{68eff647-6c62-ee63-d073-7e420a1f56bb}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.SpriteShape.Runtime", "Unity.2D.SpriteShape.Runtime.csproj", "{25ce80e0-94fe-7130-ea9d-a5260691a74e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.PixelPerfect", "Unity.2D.PixelPerfect.csproj", "{4e945a92-ec86-b8b8-40ae-65f35e28cc00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.Common.Runtime", "Unity.2D.Common.Runtime.csproj", "{ce2d7688-fd4e-6371-b78e-c35b49845157}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.InternalAPIEngineBridge.001", "Unity.InternalAPIEngineBridge.001.csproj", "{ac02891a-cc58-a057-266f-3229839de8d8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{66f17aa6-edb3-58c0-18d2-c1451c1ee132}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEditor.TestRunner", "UnityEditor.TestRunner.csproj", "{437559ff-7c0a-1a5a-fe38-a5f791518cba}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.PlasticSCM.Editor", "Unity.PlasticSCM.Editor.csproj", "{8976fc62-8a09-d4bb-2229-a551cfc22b43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEditor.UI", "UnityEditor.UI.csproj", "{82710949-7f5e-2153-841e-81184622bcbd}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Services.Core.Editor", "Unity.Services.Core.Editor.csproj", "{521da615-9108-4892-0964-2518584a4839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Timeline.Editor", "Unity.Timeline.Editor.csproj", "{1bc95bb2-a468-5ef1-8597-7cc9815dc9a7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.VisualStudio.Editor", "Unity.VisualStudio.Editor.csproj", "{df91de66-75cd-1a2e-3d75-a831448229b6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.Psdimporter.Editor", "Unity.2D.Psdimporter.Editor.csproj", "{2ce86f96-21ee-4e03-0e87-ddf1fe25be09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.Animation.Editor", "Unity.2D.Animation.Editor.csproj", "{17c6f02d-84e0-6f65-d126-9326d4488801}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.TextMeshPro.Editor", "Unity.TextMeshPro.Editor.csproj", "{a36a5000-d939-04ef-a0a3-288cd826b602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.SpriteShape.Editor", "Unity.2D.SpriteShape.Editor.csproj", "{e83342e5-974f-9343-97de-597b570544f0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.CollabProxy.Editor", "Unity.CollabProxy.Editor.csproj", "{449cc3d3-8f6c-c31f-b0ee-fcdbd4d616b8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PsdPlugin", "PsdPlugin.csproj", "{3ebc5b0a-dff1-5bff-5863-a6713d6a1dfe}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.Path.Editor", "Unity.2D.Path.Editor.csproj", "{1c632875-e00f-7e96-6721-8fd094664479}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Rider.Editor", "Unity.Rider.Editor.csproj", "{37f53668-26ba-a15f-aa97-b16e35683749}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.IK.Editor", "Unity.2D.IK.Editor.csproj", "{62813087-0082-20bc-e08d-2076e8ec777a}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.Sprite.Editor", "Unity.2D.Sprite.Editor.csproj", "{c2cf9a6c-7964-edda-35ef-419aa9140248}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.Tilemap.Editor", "Unity.2D.Tilemap.Editor.csproj", "{fcab7ff6-0ac9-48ae-6b0c-cdfc684d2cb5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.PixelPerfect.Editor", "Unity.2D.PixelPerfect.Editor.csproj", "{3ee8eb24-1ebc-5f9c-d122-67912b5ec498}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.VSCode.Editor", "Unity.VSCode.Editor.csproj", "{7661e9e7-dbdf-b7f2-9ee9-1ee9d12aa1f0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.Common.Editor", "Unity.2D.Common.Editor.csproj", "{f4671571-b9f4-bb14-86bc-14e4cfbe8693}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Mathematics.Editor", "Unity.Mathematics.Editor.csproj", "{4d62f24c-5cc8-1085-479a-6135deeca228}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.InternalAPIEditorBridge.001", "Unity.InternalAPIEditorBridge.001.csproj", "{c9474586-957f-834f-3b0d-c8a4bb09dd13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2dcb19c5-f185-9548-edc1-d54634ea66ff}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2dcb19c5-f185-9548-edc1-d54634ea66ff}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f1adb98b-2f48-a9ce-494d-f93784453d17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f1adb98b-2f48-a9ce-494d-f93784453d17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e310e40d-2fb2-6be1-d74d-c5e1a0920f58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e310e40d-2fb2-6be1-d74d-c5e1a0920f58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{daddc435-de91-efac-aaec-7b68a15eeab6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{daddc435-de91-efac-aaec-7b68a15eeab6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20dee3d6-fede-a5c6-0955-6bbc27d3a46c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20dee3d6-fede-a5c6-0955-6bbc27d3a46c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0199a156-27c9-5a9f-9c25-d462dde17eb3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0199a156-27c9-5a9f-9c25-d462dde17eb3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{046e7d59-e551-a81b-8d67-e10de8cfbfa8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{046e7d59-e551-a81b-8d67-e10de8cfbfa8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68eff647-6c62-ee63-d073-7e420a1f56bb}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68eff647-6c62-ee63-d073-7e420a1f56bb}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25ce80e0-94fe-7130-ea9d-a5260691a74e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25ce80e0-94fe-7130-ea9d-a5260691a74e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4e945a92-ec86-b8b8-40ae-65f35e28cc00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4e945a92-ec86-b8b8-40ae-65f35e28cc00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ce2d7688-fd4e-6371-b78e-c35b49845157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ce2d7688-fd4e-6371-b78e-c35b49845157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ac02891a-cc58-a057-266f-3229839de8d8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ac02891a-cc58-a057-266f-3229839de8d8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66f17aa6-edb3-58c0-18d2-c1451c1ee132}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66f17aa6-edb3-58c0-18d2-c1451c1ee132}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{437559ff-7c0a-1a5a-fe38-a5f791518cba}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{437559ff-7c0a-1a5a-fe38-a5f791518cba}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8976fc62-8a09-d4bb-2229-a551cfc22b43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8976fc62-8a09-d4bb-2229-a551cfc22b43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82710949-7f5e-2153-841e-81184622bcbd}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82710949-7f5e-2153-841e-81184622bcbd}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{521da615-9108-4892-0964-2518584a4839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{521da615-9108-4892-0964-2518584a4839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1bc95bb2-a468-5ef1-8597-7cc9815dc9a7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1bc95bb2-a468-5ef1-8597-7cc9815dc9a7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{df91de66-75cd-1a2e-3d75-a831448229b6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{df91de66-75cd-1a2e-3d75-a831448229b6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ce86f96-21ee-4e03-0e87-ddf1fe25be09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ce86f96-21ee-4e03-0e87-ddf1fe25be09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17c6f02d-84e0-6f65-d126-9326d4488801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17c6f02d-84e0-6f65-d126-9326d4488801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a36a5000-d939-04ef-a0a3-288cd826b602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a36a5000-d939-04ef-a0a3-288cd826b602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e83342e5-974f-9343-97de-597b570544f0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e83342e5-974f-9343-97de-597b570544f0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{449cc3d3-8f6c-c31f-b0ee-fcdbd4d616b8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{449cc3d3-8f6c-c31f-b0ee-fcdbd4d616b8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ebc5b0a-dff1-5bff-5863-a6713d6a1dfe}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ebc5b0a-dff1-5bff-5863-a6713d6a1dfe}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1c632875-e00f-7e96-6721-8fd094664479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1c632875-e00f-7e96-6721-8fd094664479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37f53668-26ba-a15f-aa97-b16e35683749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37f53668-26ba-a15f-aa97-b16e35683749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62813087-0082-20bc-e08d-2076e8ec777a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62813087-0082-20bc-e08d-2076e8ec777a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c2cf9a6c-7964-edda-35ef-419aa9140248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c2cf9a6c-7964-edda-35ef-419aa9140248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{fcab7ff6-0ac9-48ae-6b0c-cdfc684d2cb5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{fcab7ff6-0ac9-48ae-6b0c-cdfc684d2cb5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ee8eb24-1ebc-5f9c-d122-67912b5ec498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ee8eb24-1ebc-5f9c-d122-67912b5ec498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7661e9e7-dbdf-b7f2-9ee9-1ee9d12aa1f0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7661e9e7-dbdf-b7f2-9ee9-1ee9d12aa1f0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f4671571-b9f4-bb14-86bc-14e4cfbe8693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f4671571-b9f4-bb14-86bc-14e4cfbe8693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4d62f24c-5cc8-1085-479a-6135deeca228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4d62f24c-5cc8-1085-479a-6135deeca228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c9474586-957f-834f-3b0d-c8a4bb09dd13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c9474586-957f-834f-3b0d-c8a4bb09dd13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
